@@ -1,0 +1,8 @@
+flask
+python-dotenv
+twilio
+openai
+sqlalchemy
+psycopg2-binary
+flask-sqlalchemy
+bcrypt
